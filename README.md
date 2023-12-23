@@ -1,4 +1,4 @@
-[![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)
+![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rahardian Baihaqi</h1>
 <h3 align="center">I am a student of Informatics Engineering, Sunan Gunung Djati State Islamic University, Bandung. I am a student who prefers IT in the field of Web development and Mobile App development, adding to my interest and passion. I try to focus more on these two IT areas. I am always eager to learn and grow, taking advantage of every opportunity to shine in the future!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
