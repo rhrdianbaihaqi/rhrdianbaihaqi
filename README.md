@@ -39,6 +39,7 @@ I’m always striving to grow as a developer and tackle real-world challenges. L
 <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-8b35d0?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
 </p>
 
 
