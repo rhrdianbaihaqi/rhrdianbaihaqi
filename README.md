@@ -12,7 +12,7 @@ I’m always striving to grow as a developer and tackle real-world challenges. L
 
 ## 🤝🏼 Connect with Me
 <p>
-<a target="_blank" href="[www.linkedin.com/in/rahardianbaihaqi](https://www.linkedin.com/in/rahardianbaihaqi)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/rahardianbaihaqi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/rhrdianbaihaqi/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a target="_blank" href="https://youtube.com/@haqitv05?si=fFlzjmh4K-G-v9To"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a target="_blank" href="https://discord.gg/wxY2Bvz3"><img src="https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
