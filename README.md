@@ -1,4 +1,4 @@
-# Hello World! I'm Haqi, a Passionate Mobile Developer 👨‍💻📱
+# Hello World! I'm Haqi, a Mobile Developer 👨‍💻📱
 
 ## 👨‍💻 About Me  
 
