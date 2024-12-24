@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **4th-semester Computer Science student** at UIN Bandung.  
+- 🎓 **4th-semester Informatics Engineering student** at UIN Bandung.  
 - 🌟 Passionate about learning **Web Development** and **Mobile App Development**.  
 - 🚀 Actively improving skills in **Flutter** and **Android Development**.  
 - 👨‍🏫 Experienced in mentoring and collaborating on tech projects.  
