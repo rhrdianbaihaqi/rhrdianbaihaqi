@@ -36,21 +36,11 @@
 
 ---
 
-## 🧠 Current Focus  
-
-- 🌍 Building **cross-platform apps** using **Flutter**.  
-- ☁️ Learning to deploy and manage apps on **Google Cloud Platform (GCP)**.  
-- 🧩 Enhancing UI/UX for better user engagement.  
-- 🔧 Contributing to **open-source** and collaborative projects.  
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rahardianbaihaqi" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/rhrdianbaihaqi/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@haqitv05?si=fFlzjmh4K-G-v9To" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://discord.gg/wxY2Bvz3" target="_blank"><img src="https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
