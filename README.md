@@ -46,19 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhrdianbaihaqi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrdianbaihaqi&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rhrdianbaihaqi&theme=tokyonight" alt="GitHub Streak" height="180em"/>
-</p>
-
----
-
 ## 🐍 GitHub Activity  
 
 <picture>
