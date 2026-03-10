@@ -18,7 +18,7 @@ Focused on clean software architecture, performance, and delivering real impact 
 
 **Stack**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,kotlin,typescript,laravel,go,postgres,redis,arduino,docker,gcp&theme=dark" />
 </p>
 
@@ -26,20 +26,24 @@ Focused on clean software architecture, performance, and delivering real impact 
 
 **Reach me**
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rahardianbaihaqi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rhrdianbaihaqi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/wxY2Bvz3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
   </a>
-  <a href="mailto:emailanda@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahardianbaihaqi04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
+
 
 ---
 
