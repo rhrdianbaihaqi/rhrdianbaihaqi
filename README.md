@@ -1,72 +1,52 @@
-# 👋 Hello World! I'm Haqi  
+### Muhammad Rahardian Baihaqi
 
-💻 **Mobile Developer | Flutter Enthusiast | Cloud Explorer**  
-🎓 Informatics Engineering Student at **UIN Sunan Gunung Djati Bandung**
+Full Stack Developer · AI Engineer · Mobile Developer
 
----
-
-## 🚀 About Me
-
-- 🎓 6th-semester **Informatics Engineering student**
-- 📱 Passionate **Mobile Developer** using **Flutter & Android**
-- ☁️ Currently exploring **Cloud Computing & DevOps**
-- 🤝 Experienced in **mentoring, teamwork, and tech projects**
-- 💡 Love building apps that solve **real-world problems**
-
-> “Building digital experiences that connect people and simplify life.” 🚀
+I build scalable systems, intelligent applications, and high-quality mobile experiences.
+Focused on clean software architecture, performance, and delivering real impact through technology.
 
 ---
 
-# 🛠 Tech Stack
+**What I do best**
 
-<p align="center">
+- Design and implement end-to-end software with clean, maintainable architecture
+- Build cross-platform mobile apps with Flutter and native Android
+- Develop and integrate AI/ML solutions into production systems
+- Set up cloud infrastructure, databases (PostgreSQL/Redis), and IoT/Edge integrations
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,js,html,css,docker,firebase,gcp,git,github,figma" />
+---
 
+**Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,kotlin,typescript,laravel,go,postgres,redis,arduino,docker,gcp&theme=dark" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+**Reach me**
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rhrdianbaihaqi&theme=tokyonight&hide_border=true"/>
-
+<p>
+  <a href="https://www.linkedin.com/in/rahardianbaihaqi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rhrdianbaihaqi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/wxY2Bvz3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+  <a href="mailto:emailanda@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rahardianbaihaqi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/rhrdianbaihaqi/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://discord.gg/wxY2Bvz3">
-<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord"/>
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg">
+    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg" width="100%">
+  </picture>
 </p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg">
-</picture>
-</p>
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
