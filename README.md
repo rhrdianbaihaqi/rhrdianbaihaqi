@@ -27,18 +27,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rhrdianbaihaqi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrdianbaihaqi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -72,10 +60,10 @@
 # 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: dark)" 
   srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: light)" 
   srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg" />
 
   <img alt="github-snake" 
