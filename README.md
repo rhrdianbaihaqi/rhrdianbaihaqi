@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 5th-semester **Informatics Engineering student**
+- 🎓 6th-semester **Informatics Engineering student**
 - 📱 Passionate **Mobile Developer** using **Flutter & Android**
 - ☁️ Currently exploring **Cloud Computing & DevOps**
 - 🤝 Experienced in **mentoring, teamwork, and tech projects**
@@ -72,10 +72,10 @@
 # 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: light)" 
   srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: dark)" 
   srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake.svg" />
 
   <img alt="github-snake" 
