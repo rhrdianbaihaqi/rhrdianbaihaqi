@@ -19,7 +19,7 @@ Focused on clean software architecture, performance, and delivering real impact 
 **Stack**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,kotlin,typescript,laravel,go,postgres,redis,arduino,docker,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,kotlin,typescript,javascript,laravel,go,postgres,redis,arduino,docker,gcp,php,mysql,tailwindcss,github,jenkins,kafka,next,nest,vue,svelte,express,mongo&theme=dark" />
 </p>
 
 ---
