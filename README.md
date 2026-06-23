@@ -1,6 +1,6 @@
-### Rahardianzzz
+### Rahardianz
 
-Full Stack Developer · AI Engineer · Mobile Developer
+Full Stack Developer · AI Engineer · DevOps Engineer
 
 I build scalable systems, intelligent applications, and high-quality mobile experiences.
 Focused on clean software architecture, performance, and delivering real impact through technology.
