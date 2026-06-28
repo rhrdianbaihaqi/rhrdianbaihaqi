@@ -7,46 +7,6 @@ Focused on clean software architecture, performance, and delivering real impact 
 
 ---
 
-**What I do best**
-
-- Design and implement end-to-end software with clean, maintainable architecture
-- Build cross-platform mobile apps with Flutter and native Android
-- Develop and integrate AI/ML solutions into production systems
-- Set up cloud infrastructure, databases (PostgreSQL/Redis), and IoT/Edge integrations
-
----
-
-**Stack**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,kotlin,typescript,javascript,laravel,go,postgres,redis,arduino,docker,gcp,php,mysql,tailwindcss,github,jenkins,kafka,next,nest,vue,svelte,express,mongo&theme=dark" />
-</p>
-
----
-
-**Reach me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahardianbaihaqi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rhrdianbaihaqi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/wxY2Bvz3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rahardianbaihaqi04@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-</p>
-
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhrdianbaihaqi/rhrdianbaihaqi/output/github-snake-dark.svg">
