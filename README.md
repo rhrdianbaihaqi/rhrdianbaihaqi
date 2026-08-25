@@ -1,4 +1,4 @@
-### Rahardianzz
+### Rahardianz
 
 Full Stack Developer · AI Engineer
 
