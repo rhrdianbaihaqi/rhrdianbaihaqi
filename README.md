@@ -8,7 +8,7 @@ Focused on clean software architecture, performance, and delivering real impact 
 
 ---
 
-### 🚀 What I do best
+### What I do best
 
 - Design and implement end-to-end software with clean, maintainable architecture
 - Build cross-platform mobile apps with Flutter and native Android
@@ -17,7 +17,7 @@ Focused on clean software architecture, performance, and delivering real impact 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <picture>
